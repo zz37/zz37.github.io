@@ -1,3 +1,4 @@
+# gitignore site basics
 _site
 .sass-cache
 .jekyll-metadata
