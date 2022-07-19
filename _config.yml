@@ -1,25 +1,25 @@
-title: Hello, world! I'm David Freeman
+title: Hello, world! JV_z37 Blog Site
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+PortFolio blog site. This site contains the related projects I have worked and currently Working. Topics, include math,
+code development and material publication.
+# Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "https://zz37.github.io/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+url: "https://zz37.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: -- #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+author: JV_z37          # add your name
+author-img: synth_w.jpg # add your photo
+about-author: I am data developer focusing on data science, ml, math programming and lots of code. Always coding and learning.               # add description
+social-twitter: --      # add your Twitter handle
+social-facebook: --     # add your Facebook handle
+social-github: zz37     # add your Github handle
+social-linkedin: --     # add your Linkedin handle
+social-email:  --       # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: The guy # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
