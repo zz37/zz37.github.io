@@ -7,14 +7,52 @@ img: /data_science_post/data_science_post.jpg # Add image post (optional)
 fig-caption: Waves         # Add figcaption (optional)
 tags: [Data Science, Machine Learning, Python, Jupyter notebook]
 ---
-This is the blog post for all the projects I have worked related to Data Science, Machine Learning. With programming tools, including python3, ` jupyter notebooks`.
+This is the blog post for all the projects I have worked related to Data Science, Machine Learning. With programming tools, including python3, jupyter notebooks.
 
-## Plaid ramps kitsch woke pork belly
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+## Boston House data pricing
+### Data description
+* Origin: The origin of the boston housing data is Natural.
+* Usage: This dataset may be used for Assessment.
+* Number of Cases: The dataset contains a total of 506 cases.
+* Order: The order of the cases is mysterious.
+* Variables: There are 14 attributes in each case of the dataset. They are:
+    * CRIM - per capita crime rate by town
+    * ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
+    * INDUS - proportion of non-retail business acres per town.
+    * CHAS - Charles River dummy variable (1 if tract bounds river; 0 otherwise)
+    * NOX - nitric oxides concentration (parts per 10 million)
+    * RM - average number of rooms per dwelling
+    * AGE - proportion of owner-occupied units built prior to 1940
+    * DIS - weighted distances to five Boston employment centres
+    * RAD - index of accessibility to radial highways
+    * TAX - full-value property-tax rate per $10,000
+    * PTRATIO - pupil-teacher ratio by town
+    * B - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
+    * LSTAT - % lower status of the population
+    * MEDV - Median value of owner-occupied homes in $1000's
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+## Code
+To donwload the notebook, follow to my GitHub repository. 
+The whole code and development was implemented with `python` and in `jupyter notebook`. 
 
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
+### Importing libraries & First display
+
+{% highlight python %}
+import numpy as np  
+import pandas as pd  
+import matplotlib.pyplot as plt  
+%matplotlib inline
+
+# importamos las librerías y se leen los datos, asignando el header de 'Population', 'Profit'
+df=pd.read_csv('Population.csv', names=['Population', 'Profit'])
+df.head()
+{% endhighlight %}
+
+
+
+
+![I and My friends]({{site.baseurl}}/assets/img/mac.jpg)
+
 
 >Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
 
