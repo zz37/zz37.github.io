@@ -1,7 +1,6 @@
 title: Hello, world! JV_z37 Blog Site
 description: > # this means to ignore newlines until "baseurl:" 
-PortFolio blog site. This site contains the related projects I have worked and currently Working. Topics, include math,
-code development and material publication.
+PortFolio blog site. This site contains the related projects I have worked and currently Working. Topics, include math, code development and material publication.
 permalink: ':title/'
 baseurl: "https://zz37.github.io/" # the subpath of your site, e.g. /blog
 url: "https://zz37.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
