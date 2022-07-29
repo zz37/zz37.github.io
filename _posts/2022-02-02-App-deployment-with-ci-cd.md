@@ -3,7 +3,7 @@ layout: post
 title: App Deployment With CI/CD
 date: 2022-02-02 00:00:00 +0300
 description: Github actions CI/CD workflow for app deployment in Docker Hub. 
-img: /[Post_2]CI_CD/intro.jpg # Add image post (optional)
+img: [Post_2]CI_CD/intro.jpg # Add image post (optional)
 tags: [Programming, Learn, CI/CD] # add tag
 ---
 
