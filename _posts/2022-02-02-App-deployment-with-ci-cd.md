@@ -11,4 +11,11 @@ tags: [Programming, Learn, CI/CD] # add tag
 In this post is presented a the topics about how a typical Continuous integration (CI) and continuous delivery (CD) pipeline, can be used to deploy an app into Docker Hub in an automated Workflow by implementing GitHub Actions.
 
 The next list represents some of the topics that are going to be revised in this post.
-* Image of the developer workflow
+* Diagram of the developer workflow.
+* Basic concepts of GitHub Actions: events and actions.
+* View of the CI/CD pipeline.
+
+First as part of the developing process, the figure below presents the content workflow of the whole process.
+
+
+
