@@ -19,4 +19,7 @@ First as part of the developing process, the figure below presents the content w
 
 ![Figure 1]( /2_Post_CI_CD/intro.png "Text to show on mouseover")
 
+<p align="center">
+    <img src="{{site.baseurl}}/assets/img/2_Post_CI_CD/fig1.png" alt="drawing" style="width:500px;"/>
+</p>
 
