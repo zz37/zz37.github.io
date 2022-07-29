@@ -17,5 +17,6 @@ The next list represents some of the topics that are going to be revised in this
 
 First as part of the developing process, the figure below presents the content workflow of the whole process.
 
+![Figure 1]([Post_2]CI_CD/fig_1.png "Text to show on mouseover")
 
 
