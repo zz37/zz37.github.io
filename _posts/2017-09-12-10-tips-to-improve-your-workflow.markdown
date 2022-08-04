@@ -8,4 +8,12 @@ fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
+<style>
+    .container{padding:30px;}
+<\style>    
+
+<div class="container">
+    <embed src="files/files.pdf" type= "application/pdf" width="100%" height="600px" \>
+
+<\div>
 # Working on thecnical repairs
