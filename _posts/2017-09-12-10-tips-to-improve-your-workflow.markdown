@@ -10,5 +10,5 @@ tags: [Productivity, Workflow] # add tag
 
 # Working on thecnical repairs
 
-<object data="assets/_pdfs/files.pdf" width="1000" height="1000"  type="application/pdf">
+<object data="{{ site.baseurl }}/pdfs/files.pdf" width="1000" height="1000"  type="application/pdf">
 </object>
