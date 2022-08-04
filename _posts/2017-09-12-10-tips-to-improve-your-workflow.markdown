@@ -10,4 +10,4 @@ tags: [Productivity, Workflow] # add tag
 
 # Working on thecnical repairs
 
-<object data="{{ site.url }}{{ site.baseurl }}_pdfs/files.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="../_pdfs/files.pdf" width="100" height="100" type='application/pdf'></object>
