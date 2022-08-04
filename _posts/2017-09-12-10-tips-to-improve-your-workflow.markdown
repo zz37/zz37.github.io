@@ -10,4 +10,5 @@ tags: [Productivity, Workflow] # add tag
 
 # Working on thecnical repairs
 
-<a href="_pdfs/files.pdf" class="image fit"> </a>
+<embed src="../_pdfs/files.pdf" width="500" height="375" 
+ type="application/pdf">
