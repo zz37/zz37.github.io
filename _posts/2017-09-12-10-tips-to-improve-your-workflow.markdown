@@ -10,5 +10,5 @@ tags: [Productivity, Workflow] # add tag
 
 # Working on thecnical repairs
 
-<embed src="../_pdfs/files.pdf" width="500" height="375" 
- type="application/pdf">
+<object data="/assets/_pdfs/files.pdf" width="1000" height="1000"  type="application/pdf">
+</object>
