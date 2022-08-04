@@ -10,4 +10,4 @@ tags: [Productivity, Workflow] # add tag
 
 # Working on thecnical repairs
 
-<a href="_pdfs/files.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="_pdfs/files.pdf" class="image fit"> </a>
