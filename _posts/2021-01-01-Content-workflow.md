@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Content Workflow
-date: 202-01-01 00:00:00 +0300
+date: 2021-01-01 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: js-1.png # Add image post (optional)
+img: intro.png # Add image post (optional)
 tags: [Js, Conference, Workflow, GitLab] # add tag
 ---
 
