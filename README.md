@@ -4,6 +4,9 @@
 * Check the theme in action in a 
 [Demo](https://artemsheludko.github.io/flexible-jekyll/).
 
+
+
+
 ## Features
 
 - [Google Fonts](https://fonts.google.com/)
