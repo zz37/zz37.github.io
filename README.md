@@ -4,10 +4,6 @@
 * Check the theme in action in a 
 [Demo](https://artemsheludko.github.io/flexible-jekyll/).
 
-Take a look at a post to see the layout
-* Agregar aquí imagen. 
-![Main page preview]() 
-
 ## Features
 
 - [Google Fonts](https://fonts.google.com/)
