@@ -4,13 +4,9 @@
 * Check the theme in action in a 
 [Demo](https://artemsheludko.github.io/flexible-jekyll/).
 
-The main page would look like this:
+Take a look at a post to see the layout
 * Agregar aquí imagen. 
 ![Main page preview]() 
-
-The post page would look like this:
-* Agregar aquí una imagen de un post.
-![Post page preview]()
 
 ## Features
 
