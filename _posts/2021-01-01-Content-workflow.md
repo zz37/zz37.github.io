@@ -7,10 +7,6 @@ img: /p_Content_workflow/intro.png # Add image post (optional)
 tags: [Conference, Workflow, GitLab] # add tag
 ---
 
-
-<!---
-New section division
--->
 ******************************************************
 ## Table of Contents
 1. [Welcome](#welcome)
