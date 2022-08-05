@@ -6,10 +6,10 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
-pdf_local: "{{ site.baseurl }}/pdfs/files.pdf"
+pdf_local: "/pdfs/files.pdf"
 ---
 
 # Working on thecnical repairs
 
-<object data="{page.pdf_local}" width="1000" height="1000"  type="application/pdf">
+<object data="{{ site.baseurl }} {{page.pdf_local}}" width="1000" height="1000"  type="application/pdf">
 </object>
