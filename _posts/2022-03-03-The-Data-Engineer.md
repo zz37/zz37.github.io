@@ -8,5 +8,5 @@ fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
-<object data="{{ site.baseurl }}/pdfs/Data_Egnineer.pdf" width="1000" height="1000"  type="application/pdf">
+<object data="{{ site.baseurl }}/pdfs/Data_Engineer.pdf" width="1000" height="1000"  type="application/pdf">
 </object>
