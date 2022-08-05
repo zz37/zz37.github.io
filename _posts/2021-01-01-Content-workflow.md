@@ -4,7 +4,7 @@ title: Content Workflow
 date: 2021-01-01 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: intro.png # Add image post (optional)
-tags: [Js, Conference, Workflow, GitLab] # add tag
+tags: [Conference, Workflow, GitLab] # add tag
 ---
 
 
@@ -22,22 +22,10 @@ New section division
 7. [Troubleshooting](#troubleshooting)
 
 
-<!---
-New section division
-New section division
-New section division
--->
-
 ## Welcome 
 - This is the readme file with common instructions on how to delpoy a blog site with [jekyll] in Gitlab pages.
 - This site was constructed using [jekyll] by the user: :8ball:Z37:8ball:
 - All content is written in english :us: and some in spanish :es:.
-
-<!---
-New section division
-New section division
-New section division
--->
 
 ## Information and Documentation 
 ### :notebook_with_decorative_cover:
@@ -134,7 +122,6 @@ To work and add content with this project inside Gitlab, you'll have to follow t
 |   ├── .gitignore ------------------------------------- git .gitignore file.
 |   ├── .gitlab-ci.yml --------------------------------- Gitlab configuration file for Gitlab CI/CD pipeline.
 |   ├── about.md --------------------------------------- The about blog site page.
-|   ├── 404.html --------------------------------------- Error page.
 |   ├── feed.xml --------------------------------------- Feed xml file.
 |   ├── Gemfile ---------------------------------------- A list of gem dependencies.
 |   ├── index.html ------------------------------------- Index main page.
@@ -173,13 +160,13 @@ gantt
        title Adding GANTT diagram functionality to mermaid
 
        section A section
-       Completed task            :done,    des1, 2020-01-01,2020-01-08
-       Active task               :active,  des2, 2020-01-09, 3d
+       Completed task            :done,    des1, 2022-01-01,2022-01-08
+       Active task               :active,  des2, 2022-01-09, 3d
        Future task               :         des3, after des2, 5d
        Future task2              :         des4, after des3, 5d
 
        section Critical tasks
-       Completed task in the critical line :crit, done, 2020-01-06,24h
+       Completed task in the critical line :crit, done, 2022-01-06,24h
        Implement parser and jison          :crit, done, after des1, 2d
        Create tests for parser             :crit, active, 3d
        Future task in critical line        :crit, 5d
@@ -198,14 +185,6 @@ gantt
 </div>
  
 
-
-
-<!---
-New section division
-New section division
-New section division 
--->
-
 ## Remove Fork Relationship
 If you forked this project for your own use, please go to your project's
 
@@ -213,22 +192,12 @@ If you forked this project for your own use, please go to your project's
 
 unless you want to contribute back to the upstream project.
 
-<!---
-New section division
-New section division
-New section division
--->
 
 ## Troubleshooting
 
 1. CSS is missing! That means two things:
 
-Either that you have wrongly set up the CSS URL in your templates, or
-
-your static generator has a configuration option that needs to be explicitly
-
-set in order to serve static assets under a relative URL.
-
+* Either that you have wrongly set up the CSS URL in your templates, or your static generator has a configuration option that needs to be explicitly set in order to serve static assets under a relative URL.
   
 
 [ci]: https://about.gitlab.com/gitlab-ci/
