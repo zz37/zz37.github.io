@@ -31,7 +31,7 @@ Database Management Systems (DBMS)
 
 DBMS Diagram
 
-![](/images/sql/SQL_Diagram.png)
+![](/assets/img/p_SQL/SQL_Diagram.png)
 
 Reference for the image. [^1]
 
