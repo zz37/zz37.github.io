@@ -3,7 +3,7 @@ layout: post
 title: App Deployment With CI/CD
 date: 2022-06-06 10:00:00 +0600
 description: Github actions CI/CD workflow for app deployment in Docker Hub. 
-img: /2_Post_CI_CD/intro.jpg # Add image post (optional)
+img: /p_CI_CD/intro.jpg # Add image post (optional)
 author: "JV"
 tags: [Programming, Learn, CI/CD] # add tag
 ---
@@ -20,6 +20,6 @@ First as part of the developing process, the figure below presents the content w
 
 
 <p align="center">
-    <img src="{{site.baseurl}}/assets/img/2_Post_CI_CD/fig1.png" alt="drawing" style="width:500px;"/>
+    <img src="{{site.baseurl}}/assets/img/p_CI_CD/fig1.png" alt="drawing" style="width:500px;"/>
 </p>
 
