@@ -3,6 +3,7 @@ layout: post
 title:  "SQL Queries"
 date:   2022-04-04 10:00:00 -0600
 categories: jekyll SQL Post
+img: /p_SQL/intro.png # Add image post (optional)
 permalink: /:categories  #tells to put the url of the categories.
 # can also be /:categories/:day/:year/:month/:title.html
 author: "JV"
@@ -33,7 +34,9 @@ Database Management Systems (DBMS)
 
 DBMS Diagram
 
-![](/assets/img/p_SQL/SQL_Diagram.png)
+<p align="center">
+    <img src="{{site.baseurl}}/assets/img/p_SQL/fig1.png" alt="drawing" style="width:500px;"/>
+</p>
 
 Reference for the image. [^1]
 
