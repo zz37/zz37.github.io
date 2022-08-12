@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Content Workflow
-date: 2022-01-01 10:00:00 +0300
+title: "Content Workflow"
+date: 2022-02-02 10:00:00 -0600
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: /p_Content_workflow/intro.png # Add image post (optional)
 tags: [Conference, Workflow, GitLab] # add tag
 ---
+
+# Content Workflo
+This post contains the common used workflow for the update of posts contents and how it is commit to the remote repository.
 
 ******************************************************
 ## Table of Contents
