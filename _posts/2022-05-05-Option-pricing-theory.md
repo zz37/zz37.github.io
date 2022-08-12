@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Option Pricing Theory"
-date:   2012-01-03 12:00:00 -0600
+layout:     post
+title:      "Option Pricing Theory"
+date:       2022-05-05 10:00:00 -0600
 categories: jekyll Wolfram Post
-permalink: /:categories #tells to put the url of the categories.
+permalink:  /:categories #tells to put the url of the categories.
 #can also be /:categories/:day/:year/:month/:title.html
-author: "JV"
+author:     "JV"
 ---
 
 <!--this block make a for loop for the hyperlinks of the posts in the static site. Also added the if statment that highlights in color orange the link of the post you are on-->
@@ -14,7 +14,6 @@ author: "JV"
 <li> <a style="{% if page.url == post.url %} color:#CE534D;{% endif%}" href="{{ post.url }}"> {{post.title}}</a> </li>
 {% endfor %} 
 ---
-
 
 <!--Code for MathJax which renders the latex code into math notation, but it is not necesarry if the plugin jekyll-spaceship is installed -->
 <script type="text/javascript" async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
