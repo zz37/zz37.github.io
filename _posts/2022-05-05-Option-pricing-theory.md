@@ -3,6 +3,7 @@ layout:     post
 title:      "Option Pricing Theory"
 date:       2022-05-05 10:00:00 -0600
 categories: jekyll Wolfram Post
+img: /p_Option_pricing/intro.jpeg # Add image post (optional)
 permalink:  /:categories #tells to put the url of the categories.
 #can also be /:categories/:day/:year/:month/:title.html
 author:     "JV"
