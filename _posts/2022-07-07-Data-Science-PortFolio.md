@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Science PortFolio
-date: 2022-01-01 10:00:00 +0300
+date: 2022-07-07 10:00:00 -0600
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.                   # Add post description (optional)
 img: /DataS_post/Post_title.jpg # Add image post (optional)
 fig-caption: Waves         # Add figcaption (optional)
