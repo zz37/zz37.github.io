@@ -5,6 +5,7 @@ date: 2022-08-01 10:00:00 -0600 # date is YEAR/MONTH/DATE
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: /p_Data_eng/intro.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+author: "JV"
 tags: [Productivity, Workflow] # add tag
 ---
 

@@ -5,6 +5,7 @@ date: 2022-07-07 10:00:00 -0600
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.                   # Add post description (optional)
 img: /DataS_post/Post_title.jpg # Add image post (optional)
 fig-caption: Waves         # Add figcaption (optional)
+author: "JV"
 tags: [Data Science, Machine Learning, Python, Jupyter notebook]
 ---
 This is the blog post for all the projects I have worked related to Data Science, Machine Learning. With programming tools, including python3, jupyter notebooks.

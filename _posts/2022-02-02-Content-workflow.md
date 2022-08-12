@@ -4,6 +4,7 @@ title: "Content Workflow"
 date: 2022-02-02 10:00:00 -0600
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: /p_Content_workflow/intro.png # Add image post (optional)
+author: "JV"
 tags: [Conference, Workflow, GitLab] # add tag
 ---
 

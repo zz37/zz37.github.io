@@ -4,6 +4,7 @@ title: "Welcome to Jekyll!"
 date: 2022-01-10 10:00:00 +0600
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: "/p_jekyll/intro.jpg" # Add image post (optional)
+author: "JV"
 ---
 # Jekyll Static Site Generator
 
