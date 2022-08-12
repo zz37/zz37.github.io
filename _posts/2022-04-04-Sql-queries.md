@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "SQL Queries"
-date:   2022-01-04 01:00:00 -0600
+date:   2022-04-04 10:00:00 -0600
 categories: jekyll SQL Post
 permalink: /:categories  #tells to put the url of the categories.
 # can also be /:categories/:day/:year/:month/:title.html
 author: "JV"
 ---
+
+# Sql Language Theory
 
 SQL Notes.
 
