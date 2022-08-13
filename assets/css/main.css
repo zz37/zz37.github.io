@@ -936,6 +936,22 @@ table tfoot td {
   background-color: #ffffff;
 }
 
+.sidebar h4 {
+  color: rgb(0,150,155);
+  margin: 0px;
+  text-align: center;
+}
+
+.sidebar ul {
+  padding-left: 30px;
+  padding-bottom: 20px;
+  margin-bottom: 90px;
+}
+
+.sidebar ul:hover {
+  color: red;
+}
+
 .about {
   margin: 0 0 40px;
   text-align: center;
@@ -1095,6 +1111,7 @@ table tfoot td {
 }
 
 footer .copyright {
+  color: rgba(98,0,209);
   font-size: 14px;
   text-align: center;
   margin: 0;
