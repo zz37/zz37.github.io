@@ -942,14 +942,16 @@ table tfoot td {
   text-align: center;
 }
 
-.sidebar ul {
-  padding-left: 30px;
+.sidebar a {
+  color: #f64f79;
+  padding-left: 30px; 
   padding-bottom: 20px;
   margin-bottom: 90px;
+  text-decoration: none;
 }
 
-.sidebar ul:hover {
-  color: red;
+.sidebar a:hover{
+  color: rgb(252, 4, 4);
 }
 
 .about {
