@@ -1,9 +1,6 @@
 # Blog site publication
 * Central theme is simple and clean Jekyll theme, Flexible-Jekyll.
 * Jekyll is a static site generator. 
-* Check the theme in action in a 
-[Demo](https://artemsheludko.github.io/flexible-jekyll/).
-
 
 
 
