@@ -942,7 +942,7 @@ table tfoot td {
   text-align: center;
 }
 
-.sidebar a {
+.sidebar .nav-sidebar-text {
   color: #f64f79;
   padding-left: 30px; 
   padding-bottom: 20px;
@@ -950,7 +950,7 @@ table tfoot td {
   text-decoration: none;
 }
 
-.sidebar a:hover{
+.sidebar .nav-sidebar-text:hover{
   color: rgb(252, 4, 4);
 }
 
