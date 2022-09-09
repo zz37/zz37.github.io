@@ -9,7 +9,7 @@ tags: [Conference, Workflow, GitLab] # add tag
 permalink: content_w/
 ---
 
-# Content Workflo
+# Content Workflow
 This post contains the common used workflow for the update of posts contents and how it is commit to the remote repository.
 
 ******************************************************
