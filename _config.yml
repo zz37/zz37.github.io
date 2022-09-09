@@ -1,5 +1,5 @@
 title: Welcom to JV_z37 Blog Site
-description: PortFolio blog site. This site contains the related projects I have worked and currently Working. Topics, include math, code development and material publication.This  a descripion of the blog site. Organization is done by nagivating by posts. The content of the posts are relevant research and development in code, math, physics, data engineer, devops, etc. Workshops done trough time to time.  
+description: PortFolio blog site. This site contains the related projects I have worked and currently Working. Topics, include math, code development and material publication. This  a descripion of the blog site. Organization is done by nagivating by posts. The content of the posts are relevant research and development in code, math, physics, data engineer, devops, etc. Workshops done trough time to time.  
 # Write an awesome description for your new site here.  You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "https://zz37.github.io/" # the subpath of your site, e.g. /blog
@@ -9,7 +9,7 @@ site-twitter: -- #if your site has a twitter account, enter it here
 # Author Settings
 author: JV_z37          # add your name
 author-img: logo.jpg # add your photo
-about-author: I am code developer focusing on data science, ml, math programming and Frontend technologies applied to machine learning. Always coding and learning.               # add description
+about-author: I am code developer focusing on data science, ml, math programming and Frontend technologies. Always coding and learning.               # add description
 social-twitter: --      # add your Twitter handle
 social-facebook: --     # add your Facebook handle
 social-github: zz37     # add your Github handle
