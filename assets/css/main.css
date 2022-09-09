@@ -942,14 +942,21 @@ table tfoot td {
   text-align: center;
 }
 
-.sidebar div{
+.sidebar .home-page{
   text-align: center;
+}
+
+.sidebar .about-content{
+  text-align: center;
+}
+
+.sidebar .about-content a{
+  padding-left: 15px;
 }
 
 .sidebar a {
   color: #f64f79; 
   margin-bottom: 90px;
-  padding-left: 20px;
   text-decoration: none;
   align-items: center;
 }
