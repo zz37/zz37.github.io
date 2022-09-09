@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: /p_Content_workflow/intro.png # Add image post (optional)
 author: "JV"
 tags: [Conference, Workflow, GitLab] # add tag
+permalink: content_w/
 ---
 
 # Content Workflo
