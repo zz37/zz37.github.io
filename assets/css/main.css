@@ -942,15 +942,19 @@ table tfoot td {
   text-align: center;
 }
 
-.sidebar .nav-sidebar-text {
-  color: #f64f79;
-  padding-left: 30px; 
-  padding-bottom: 20px;
-  margin-bottom: 90px;
-  text-decoration: none;
+.sidebar div{
+  text-align: center;
 }
 
-.sidebar .nav-sidebar-text:hover{
+.sidebar a {
+  color: #f64f79; 
+  margin-bottom: 90px;
+  padding-left: 20px;
+  text-decoration: none;
+  align-items: center;
+}
+
+.sidebar a:hover{
   color: rgb(252, 4, 4);
 }
 
