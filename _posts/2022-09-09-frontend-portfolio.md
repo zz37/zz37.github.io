@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Front End Portfolio
-date: 2022-09-09 00:00:00 +0300
+date: 2022-09-09 00:00:00 -0600
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: "/p_FrontEnd/cover.jpg" # Add image post (optional)
 tags: [Productivity, Frontend, React, BootStrap, CSS, HTML, JavaScript] # add tag
