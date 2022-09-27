@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "HTML & CSS"
+title:  "Web Development Theory"
 date:   2022-03-03 10:00:00 -0600
-categories: jekyll HTML&CSS Post
+categories: jekyll Web Development Theory Post
 img: /p_Html_css/intro.png # Add image post (optional)
 permalink: /:categories #tells to put the url of the categories.
 # can also be /:categories/:day/:year/:month/:title.html
