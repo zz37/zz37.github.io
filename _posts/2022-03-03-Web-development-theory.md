@@ -158,6 +158,25 @@ p.big -> selector of class "big"
 * Deployment (GitHub, Heroku, Mongo Atlas).
 * RERSTful APIs(GET, POST, PUT, PATCH, DELETE).
 
+--- 
+## Recursos de Front-end (Referencias)
+Los links y recurso son de carácter educativo e instrutivo.
+
+En este repositorio de GitHub se encuentran recursos gratuitos y referencias bibliográficas, de la tecnologías de Front-end.
+* Conocimientos de Programación.
+* Frameworks (React, Vue, Angular, ... ).
+* HTML, CSS, JavaScript ... .
+* [`Repo Github`](https://github.com/mrcodedev/frontend-developer-resources#-katas)
+
+En este repositorio se encuentran las pautas del estándar, convenciones y buena práctica de código para las tecnologías Front-end.
+* [`Repo Github`](https://github.com/thedaviddias/Front-End-Checklist)
+
+En este repositorio se encuentran recursos para principiantes en tecnologías Front-end.
+* [`Repo Github`](https://github.com/thedaviddias/Resources-Front-End-Beginner#chat--slack-channels)
+
+En este repositorio se encuentran recursos para preparación de entrevista en tecnologías Front-end.
+* [`Repo Github`](https://github.com/yangshun/front-end-interview-handbook)
+
 
 
  
