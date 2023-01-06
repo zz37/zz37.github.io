@@ -27,5 +27,10 @@ Parte de los proyectos se muestran a continuación.
 * URL de repositorio delcódigo `GitHub`: [JS-Calculator](https://github.com/zz37/Back-end-devProjects/tree/main/JS-calculator)
 * [Demo en vivo de la caluladora](https://zz37.github.io/JavaScritp_Calculator_App/)
 
+## Proyecto Back-End
+Dada la naturaleza del concepto de Back-end, los proyectos en los que he trabajo se encuentran en mi repositorio de Github [Back-end_Projects](), donde uso el siguiente Tech Stack: [Back-end development projects. Tech stack: `javascript`, `jQuery`, `node js`, `react`, `RESTful APi`, `mongo db`, `mongoose`.
+
+--- 
+
 
 
