@@ -24,7 +24,7 @@ Parte de los proyectos se muestran a continuación.
 * Editor de código Visual Studio Code
 * Requisitos, entendimiento sólido de HTML, CSS y JavaScript.
 * Implementación de funciones para cada uno de los operadores binarios, suma, resta, multiplicación y división.
-* URL de repositorio de `GitHub`: https://github.com/zz37/Back-end-devProjects/tree/main/JS-calculator
+* URL de repositorio de `GitHub`: [JS-Calculator]https://github.com/zz37/Back-end-devProjects/tree/main/JS-calculator
 
 
 
