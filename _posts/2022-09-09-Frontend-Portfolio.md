@@ -32,6 +32,7 @@ Dada la naturaleza del concepto de Back-end, los proyectos en los que he trabajo
 
 --- 
 ## Recursos de Front-end (Referencias)
+Los links y recurso son de carácter educativo e instrutivo.
 
 En este repositorio de GitHub se encuentran recursos gratuitos y referencias bibliográficas, de la tecnologías de Front-end.
 * Conocimientos de Programación.
