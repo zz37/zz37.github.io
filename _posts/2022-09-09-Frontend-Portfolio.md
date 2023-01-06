@@ -31,6 +31,21 @@ Parte de los proyectos se muestran a continuación.
 Dada la naturaleza del concepto de Back-end, los proyectos en los que he trabajo se encuentran en mi repositorio de Github [Back-end_Projects](), donde uso el siguiente Tech Stack: [Back-end development projects. Tech stack: `javascript`, `jQuery`, `node js`, `react`, `RESTful APi`, `mongo db`, `mongoose`.
 
 --- 
+## Recursos de Front-end (Referencias)
 
+En este repositorio de GitHub se encuentran recursos gratuitos y referencias bibliográficas, de la tecnologías de Front-end.
+* Conocimientos de Programación.
+* Frameworks (React, Vue, Angular, ... ).
+* HTML, CSS, JavaScript ... .
+* [`Repo Github`](https://github.com/mrcodedev/frontend-developer-resources#-katas)
+
+En este repositorio se encuentran las pautas del estándar, convenciones y buena práctica de código para las tecnologías Front-end.
+* [`Repo Github`](https://github.com/thedaviddias/Front-End-Checklist)
+
+En este repositorio se encuentran recursos para principiantes en tecnologías Front-end.
+* [`Repo Github`](https://github.com/thedaviddias/Resources-Front-End-Beginner#chat--slack-channels)
+
+En este repositorio se encuentran recursos para preparación de entrevista en tecnologías Front-end.
+* [`Repo Github`](https://github.com/yangshun/front-end-interview-handbook)
 
 
